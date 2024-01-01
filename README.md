@@ -1,10 +1,10 @@
-#Aim
-
-This project aims at working with databinding in Angular as an exercise and snippet of the main course.
-
 # BasicsAssignment2Start
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+
+## Aim
+
+This project aims at working with databinding in Angular as an exercise and snippet of the main course.
 
 ## Development server
 
